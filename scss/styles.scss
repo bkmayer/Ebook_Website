@@ -1,0 +1,5 @@
+
+//custom css when hovering over contact button (.btn-outline-light in the html) change text to dark
+.navbar .btn-outline-light:hover{
+    color: hsla(0, 0%, 20%, 1);
+}
